@@ -1,4 +1,4 @@
-# Composition = Dependant relationship
+# Composition = Dependant Relationship
 
 class Battery:
     def __init__(self, capacity):
