@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 ![Last Updated](https://img.shields.io/badge/Last%20Update-July%202025-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Welcome to the **Advanced Python Concepts** repository — a curated collection of powerful Python features and techniques. Whether you're polishing your skills or diving deep into real-world applications, this repo is for you!
 
