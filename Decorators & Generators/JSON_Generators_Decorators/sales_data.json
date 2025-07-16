@@ -1,0 +1,7 @@
+[
+    {"product": "Laptop", "category": "Electronics", "quantity": 15, "price_per_unit": 1200},
+    {"product": "Jeans", "category": "Apparel", "quantity": 40, "price_per_unit": 50},
+    {"product": "Blender", "category": "Home Appliances", "quantity": 25, "price_per_unit": 150},
+    {"product": "Smartphone", "category": "Electronics", "quantity": 30, "price_per_unit": 800},
+    {"product": "Jacket", "category": "Apparel", "quantity": 20, "price_per_unit": 120}
+]

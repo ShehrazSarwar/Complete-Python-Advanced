@@ -1,0 +1,14 @@
+[
+    {
+        "category": "Electronics",
+        "total_sales": 42000
+    },
+    {
+        "category": "Apparel",
+        "total_sales": 4400
+    },
+    {
+        "category": "Home Appliances",
+        "total_sales": 3750
+    }
+]

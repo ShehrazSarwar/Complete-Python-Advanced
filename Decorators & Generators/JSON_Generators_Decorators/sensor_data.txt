@@ -1,0 +1,6 @@
+sensor1,15.5
+sensor2,16.2
+sensor1,21.8
+sensor3,22.5
+sensor2,15.0
+sensor1,24.1
