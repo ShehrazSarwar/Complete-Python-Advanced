@@ -29,7 +29,7 @@ class Student:
 
 Student1 = Student("Shehraz",3.91)
 Student2 = Student("Umer",3.1)
-Student3 = Student("Zoha",3.3)
+Student3 = Student("Ali",3.3)
 
 print(Student.total_students())
 print((Student.get_average_gpa()))

@@ -10,7 +10,7 @@ print(mytuple)
 
 # what if we try to change the list inside the tuple?
 # changing the list inside a tuple is possilbe
-mytuple[0][0] = "Baddie"
+mytuple[1][0] = "Baddie"
 print(mytuple)
 
 # appending into a list inside a tuple is possible
