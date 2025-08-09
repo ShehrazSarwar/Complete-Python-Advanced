@@ -23,6 +23,7 @@ Welcome to the **Advanced Python Concepts** repository — a curated collection 
 | 📚 **Collections** | Lists, Tuples, Sets, and Dictionaries—under the hood |
 | 🌐 **Web Scraping** | Parse and scrape HTML using BeautifulSoup |
 | ➕ **String Manipulation** | Advanced string joining, formatting, and parsing |
+| 📊 Streamlit | Build interactive web apps for data analysis and visualization directly in Python |
 
 ---
 
@@ -46,6 +47,7 @@ Welcome to the **Advanced Python Concepts** repository — a curated collection 
 ├── Tuple/
 ├── Web Scraping (Beautiful Soup)/
 ├── Web_Scrape/
+├── Streamlit/
 ```
 
 ---
