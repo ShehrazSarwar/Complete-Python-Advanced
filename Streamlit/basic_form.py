@@ -23,6 +23,7 @@ with st.form('Basic Form'):
         if not all (info.values()):
             st.warning('Please fill all the values!')
         else:
+            st.balloons()
             st.write('### Your Info: ')
             for key,values in info.items():
                 st.write(f"{key}: {values}")
