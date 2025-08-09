@@ -25,7 +25,7 @@ with st.form('Basic Form'):
         else:
             st.success('Form submitted successfully!')
             st.balloons()
-            st.write('### Your Info: ')
-            for key,values in info.items():
-                st.write(f"{key}: {values}")
+            with st.expander(label='Check Submitted Info:'):
+                for key,values in info.items():
+                    st.write(f"{key}: {values}")
 
